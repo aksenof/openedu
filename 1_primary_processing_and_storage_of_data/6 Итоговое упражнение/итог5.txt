@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM TEST, STUDENT_TEST WHERE TEST.TEST_ID = STUDENT_TEST.TEST_ID AND TEST_NAME_RU = 'Основы персональной информационной безопасности';
