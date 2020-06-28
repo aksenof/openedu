@@ -1,0 +1,14 @@
+1.
+is_anomally: Yes
+confidence NO: 0.000
+confidence YES: 1.000
+
+2.
+is_anomally: Yes
+confidence NO: 0.000
+confidence YES: 1.000
+
+3.
+is_anomally: NO
+confidence NO: 1.000
+confidence YES: 0.000
